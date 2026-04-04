@@ -255,19 +255,23 @@ Certificação Avançada Avilla Forensics (Presencial):
 
 ### Avilla Forensics FREE:
 
-VHD format version:
+ZIP format version:
 
-- SIZE: 7.10 GB
-- Hash Sha-1: a2adb66c69366667c31cfe0eeb090eed938e1986
-- Hash Sha-256: 6a97dc7c580f7317b7d6ecdf1b7588308e4e1ea25e3807ec6ce58aea1c8807ad
+- SIZE: 6.72 GB
+- Hash Sha-256: 27bde1baca786f04dc28111fc2c81fb7f2a457665fc927d62d2709d1e59bdbf7
 
-- Download Link:
-- https://1drv.ms/u/c/cad000d6a96e59e4/IQDtstGkYOJVSq7syzjQFE4BAWlUe8nX6d3lakQuwpisRyE?e=dsy6Gk
+- Donwload options:
 
-- Windows opens and mounts disk drives in VHD automatically. If it does not mount, go to disk management and attach the VHD file to mount it.
+  - Dropbox:
+  - https://www.dropbox.com/scl/fo/edcy7xu5fx0zmetor1r6r/AIqNFYghADHTXdfktKXu2Hg?rlkey=egpqzgv9bqmbqbs044nk5y7w9&st=zvu9mgx0&dl=0
 
- - O Windows abre e monta unidades de disco em VHD de forma automática. Caso não monte, vá em gerenciamento de disco e anexe o arquivo VHD para montá-lo. 
+  - Ondrive:
+  - https://1drv.ms/u/c/cad000d6a96e59e4/IQCJFGYz0YybSo2PNXD_NLd3AX87VPObCsn-BubeAWA2B_U?e=YQ79V9
+
+  - Google Drive:
+  - https://drive.google.com/file/d/1r0hgw52CCH6XcXPPKhKHiZ4Z-HgNA4ye/view?usp=sharing
  
+   
 ### Complementary pack with 400 applications for Downgrade:
 
 - SIZE: 4,91 GB
